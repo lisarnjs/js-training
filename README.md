@@ -10,7 +10,9 @@
   - for문
   - for in문
 2. 2주차
-
+  - for of문
+  - forEach()
+  
 ## Using Language
 - HTML
 - CSS/SCSS
